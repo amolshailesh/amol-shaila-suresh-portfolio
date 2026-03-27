@@ -8,4 +8,4 @@ labour markets, and local governance, with a growing emphasis on mixed-methods r
 approaches. I bring a combination of rigorous analytical skills, field implementation experience, and project management expertise, 
 and am motivated to contribute to evidence-based policymaking in poverty alleviation and social protection.
 
-- [CV:] (https://github.com/amolshailesh/amol-shaila-suresh-portfolio/blob/main/01_CV_and_Overview/Amol_Shaila_Suresh_CV.pdf)
+- [CV](https://github.com/amolshailesh/amol-shaila-suresh-portfolio/blob/main/01_CV_and_Overview/Amol_Shaila_Suresh_CV.pdf)
